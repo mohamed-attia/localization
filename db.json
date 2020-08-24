@@ -1,9 +1,20 @@
 {
-    "Home":"الرئيسية",
-    "contact":"التواصل",
-    "About":"عنا",
-    "Title":" الرئيسي العنوان",
-    "Description":"التفاصيل’",
-    "Address":"العنوان",
-    "k":"‘"
+    "ar": {
+       "Home": "الرئيسية",
+       "contact": "التواصل",
+       "About": "عنا",
+       "Title": " الرئيسي العنوان",
+       "Description": "التفاصيل’",
+       "Address": "العنوان",
+       "k": "‘"
+    },
+    "en": {
+       "Home": "Home",
+       "contact": "contact",
+       "About": "About",
+       "Title": "Title",
+       "Description": "Description",
+       "Address": "Address",
+       "k": "e"
+    }
  }
