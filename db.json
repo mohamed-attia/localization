@@ -1,32 +1,42 @@
 [
     {
-        "key": "Home",
-        "arabicValue": "الرئيسية",
-        "englishValue": "Home"
+      "id": 0,
+      "content": "Buy new sweatshirt",
+      "status": true
     },
     {
-        "key": "contact",
-        "arabicValue": "التواصل",
-        "englishValue": "contact"
+      "id": 1,
+      "content": "Begin promotional phase",
+      "status": true
     },
     {
-        "key": "About",
-        "arabicValue": "عنا",
-        "englishValue": "About"
+      "id": 2,
+      "content": "Read an article",
+      "status": false
     },
     {
-        "key": "Title",
-        "arabicValue": " الرئيسي العنوان",
-        "englishValue": "Title"
+      "id": 3,
+      "content": "Try not to fall asleep",
+      "status": false
     },
     {
-        "key": "Description",
-        "arabicValue": "التفاصيل’",
-        "englishValue": "Description"
+      "id": 4,
+      "content": "Watch ‘Sherlock’",
+      "status": false
     },
     {
-        "key": "Address",
-        "arabicValue": "العنوان",
-        "englishValue": "Address"
+      "id": 5,
+      "content": "Begin QA for the product",
+      "status": false
+    },
+    {
+      "id": 6,
+      "content": "Go for a walk",
+      "status": false
+    },
+    {
+      "id": 7,
+      "content": "Buy new sweatshirt Buy new sweatshirt",
+      "status": true
     }
-]
+  ]
