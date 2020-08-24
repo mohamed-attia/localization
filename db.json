@@ -1,20 +1,32 @@
-{
-    "ar": {
-       "Home": "الرئيسية",
-       "contact": "التواصل",
-       "About": "عنا",
-       "Title": " الرئيسي العنوان",
-       "Description": "التفاصيل’",
-       "Address": "العنوان",
-       "k": "‘"
+[
+    {
+        "key": "Home",
+        "arabicValue": "الرئيسية",
+        "englishValue": "Home"
     },
-    "en": {
-       "Home": "Home",
-       "contact": "contact",
-       "About": "About",
-       "Title": "Title",
-       "Description": "Description",
-       "Address": "Address",
-       "k": "e"
+    {
+        "key": "contact",
+        "arabicValue": "التواصل",
+        "englishValue": "contact"
+    },
+    {
+        "key": "About",
+        "arabicValue": "عنا",
+        "englishValue": "About"
+    },
+    {
+        "key": "Title",
+        "arabicValue": " الرئيسي العنوان",
+        "englishValue": "Title"
+    },
+    {
+        "key": "Description",
+        "arabicValue": "التفاصيل’",
+        "englishValue": "Description"
+    },
+    {
+        "key": "Address",
+        "arabicValue": "العنوان",
+        "englishValue": "Address"
     }
- }
+]
